@@ -1,14 +1,17 @@
-# 芽语 Sproutly — 发布
+# 芽语 Sproutly
 
-本仓库用于提供芽语的安装包、版本说明和更新信息。应用源码保持私有，不在本仓库发布。
+芽语是一本孕期记录本，可以记日记和身体状态、安排产检、整理检查单和笔记。
 
-[下载 Android 0.1.2 Beta 1（2058）](https://github.com/Francesco502/Sproutly-Releases/releases/tag/android-v0.1.2-beta.1)。安装包适用于 Android 7.0 及以上的 ARM64 设备。使用过 2057 试装版的用户，请先按发布说明导出密码备份。
+## Android 公开测试版
 
-## 获取更新
+当前版本为 **0.1.3 Beta 1（2059）**，适用于 Android 7.0 及以上的 ARM64 手机。
 
-各版本的发布说明见 [Releases](https://github.com/Francesco502/Sproutly-Releases/releases)。
+[下载 APK（26.04 MiB）](https://github.com/Francesco502/Sproutly-Releases/releases/download/android-v0.1.3-beta.1/Sproutly-0.1.3-beta.1-2059-arm64.apk) · [本版说明与文件校验](https://github.com/Francesco502/Sproutly-Releases/releases/tag/android-v0.1.3-beta.1) · [历史版本](https://github.com/Francesco502/Sproutly-Releases/releases)
 
-- Android：适用直接分发渠道的签名 APK、版本说明及文件校验信息。
-- iOS：版本说明与 App Store 入口；测试版本使用 TestFlight。GitHub 不提供面向 App Store 用户的直接安装更新。
+## 安装与升级
 
-具体系统要求、安装方式和已知问题以各版本发布说明为准。
+- **已安装 2058 公开测试版**　可在芽语「设置」中检查更新，也可下载 APK 直接覆盖安装。已有记录和配对会保留。
+- **已安装 2052、2057 等早期试装版**　请先在旧应用中导出密码备份。安装新版后，在添加记录或配对前恢复备份。确认记录和附件都能打开后，再决定是否移除旧版。新安装需重新配对。
+- **已安装 2059 候选包**　与本次公开发布的 APK 相同，可继续使用。
+
+iOS 版仍在验收阶段。各平台的下载入口会随对应版本发布。
